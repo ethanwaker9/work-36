@@ -1,0 +1,5 @@
+-dontwarn org.bouncycastle.**
+-dontwarn javax.naming.**
+-keep class org.bouncycastle.pqc.crypto.mlkem.** { *; }
+-keep class org.bouncycastle.pqc.crypto.mldsa.** { *; }
+-keep class org.oylama.** { *; }
