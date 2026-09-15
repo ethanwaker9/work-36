@@ -1,0 +1,7 @@
+numpy>=1.26
+sympy>=1.12
+pycryptodome>=3.20
+matplotlib>=3.8
+liboqs-python>=0.10
+kyber-py>=1.0
+dilithium-py>=1.0
